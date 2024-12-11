@@ -1,9 +1,12 @@
-# JavaFX Exercises
+# ICS4U - CPT: Interactive Data Visualization
 
-JavaFX is a comprehensive framework to create a graphical user interface (GUI) for your Java prgrams.
+Edit this page to include:
 
-This a repository to use for the various projects we'll be creating to learn about the JavaFX framework.
+* An explanation of the data set being visualized.
+* A link to your source for the data set.
+* An explanation of why you selected this data set for this project.
+* A brief explanation of yoru object-oriented approach, including an electronically-generated UML Class Diagram.
+* Embedded (MP4 or MOV file in `images` folder) or external link (e.g. YouTube) to your demonstration video.
 
-### Setup and installation
-
-Before beginning, make sure that you have properly set up your development environment by following [these instructions](INSTALL.md).
+### JavaFX Installation & Configuration
+The [INSTALL.md](INSTALL.md) in this repository includes instructions on how to set up JavaFX for your development environment.
