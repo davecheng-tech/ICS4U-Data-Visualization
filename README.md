@@ -4,7 +4,7 @@ Edit this page to include:
 
 * An explanation of the data set being visualized.
 * A link to your source for the data set.
-* An explanation of why you selected this data set for this project.
+* An explanation of why you selected this data set for this project. What story does it tell?
 * A brief explanation of yoru object-oriented approach, including an electronically-generated UML Class Diagram.
 * Embedded (MP4 or MOV file in `images` folder) or external link (e.g. YouTube) to your demonstration video.
 
